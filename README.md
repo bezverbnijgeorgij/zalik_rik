@@ -9,13 +9,14 @@
 
 Встановлення залежностей
 
-npm install
+```npm install```
 
 Зауск програми
 
-npx expo start
+```npx expo start```
 
-Для тестування можна використати емулятор android studio, f,j ghbkj;tyyz expo go на телефоні
+Для тестування можна використати емулятор android studio, або приложення expo go на телефоні
+
 ---
 
 ## 📝 Опис проєкту
@@ -37,15 +38,3 @@ npx expo start
 * **Навігація:** React Navigation Stack
 * **Сховище:** @react-native-async-storage/async-storage
 * **Середовище розробки:** VS Code / Android Studio (Emulator)
-
----
-
-## 🚀 Інструкція із встановлення та запуску
-
-Встановлення залежностей
-
-npm install
-
-Зауск програми
-
-npx expo start
